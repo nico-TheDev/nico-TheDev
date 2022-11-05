@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Norberto G. Ignacio Jr.</h1>
 <h3 align="center">A MERN Stack Developer from the Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nico-thedev" alt="nico-thedev" /></a> </p>
-
 - 🔭 I’m currently working on **Manga4U**
 
 - 🌱 I’m currently learning **NextJS and Firebase**
